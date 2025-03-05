@@ -1,3 +1,5 @@
-fun main(args: Array<String>) {
-    println("Hello World!")
+// Запуск приложения
+fun main() {
+    val app = App()
+    app.run()
 }
